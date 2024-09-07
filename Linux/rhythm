@@ -1,0 +1,39 @@
+
+default partial
+xkb_symbols "basic" {
+    include "us(basic)"
+
+    name[Group1] = "Rhythm";
+
+    key <AD01> {[ y, Y ]};
+    key <AD02> {[ m, M ]};
+    key <AD03> {[ h, H ]};
+    key <AD04> {[ c, C ]};
+    key <AD05> {[ p, P ]};
+    key <AD06> {[ q, Q ]};
+    key <AD07> {[ x, X ]};
+    key <AD08> {[ u, U ]};
+    key <AD09> {[ a, A ]};
+    key <AD10> {[ comma, less ]};
+    key <AC01> {[ s, S ]};
+    key <AC02> {[ t, T ]};
+    key <AC03> {[ n, N ]};
+    key <AC04> {[ d, D ]};
+    key <AC05> {[ f, F ]};
+    key <AC06> {[ j, J ]};
+    key <AC07> {[ r, R ]};
+    key <AC08> {[ e, E ]};
+    key <AC09> {[ o, O ]};
+    key <AC10> {[ i, I ]};
+    key <AC11> {[ slash, question ]};
+    key <AB01> {[ v, V ]};
+    key <AB02> {[ k, K ]};
+    key <AB03> {[ b, B ]};
+    key <AB04> {[ g, G ]};
+    key <AB05> {[ w, W ]};
+    key <AB06> {[ z, Z ]};
+    key <AB07> {[ l, L ]};
+    key <AB08> {[ semicolon, colon ]};
+    key <AB09> {[ apostrophe, quotedbl ]};
+    key <AB10> {[ period, greater ]};
+};
