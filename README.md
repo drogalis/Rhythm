@@ -21,13 +21,13 @@ v k b g w   z l ; ' .
 
 Welcome to the world of alternative keyboard layouts!
 
-The elevator pitch -- by using english speech patterns and the dictionary of english words,
+The elevator pitch — by using english speech patterns and the dictionary of english words,
 you can develop a keyboard layout that makes it easier to type common english words.
 
-That's it -- the goal is to make typing easier. QWERTY was invented in 1874 and since then many people have tried to do exactly that.
+That's it — the goal is to make typing easier. QWERTY was invented in 1874 and since then many people have tried to do exactly that.
 
 You may have heard of layouts like Dvorak or Colmak, which do provide a large improvement over QWERTY, but to quantify 
-the levels of improvement -- let's use some numbers and definitions.
+the levels of improvement — let's use some numbers and definitions.
 
 Here are some common acronyms to describe keyboard layouts:
 
@@ -56,11 +56,11 @@ Total Redirects:     6.342%     13.187%      3.458%     10.579%     10.414%
 - [Keyboards Alt Layout Source](https://getreuer.info/posts/keyboards/alt-layouts/stats.html)
 
 As you can see Rhythm provides a substantial improvement over the other well known layouts. You may be 
-surprised by the wide margin -- no one else thought of these improvements? -- they have, just see the Keyboards Alt Layout Source or the [Experts](#For-Experts) section below.
+surprised by the wide margin — no one else thought of these improvements? — they have, just see the Keyboards Alt Layout Source or the [Experts](#For-Experts) section below.
 
 ##### Getting Started
 
-Now that you have been convinced that there's some benefit to switching keyboard layouts -- let's look at the costs.
+Now that you have been convinced that there's some benefit to switching keyboard layouts — let's look at the costs.
 Switching layouts is not a small undertaking, it often takes months of work (see below experts section).  If 
 you are someone who plans on doing a large amount of typing, it may be a good long term investment. I recommend 
 checking out youtube videos for testimonials about other people's experience of switching layouts (good and bad).
@@ -113,17 +113,17 @@ Rhythm should be a layout to consider for one of the weeks of the month long exp
 
 The attributes that set Rhythm apart from other alternative keyboard layouts are the very low SFBs, minimal LSBs, extremely high rolls, and an even hand split.
 
-On [cyanophage](https://cyanophage.github.io/) there's an option to sort layouts by SFB percentage -- Rhythm is in the top 3 (top 2 when only considering standard 30 key layouts). 
+On [cyanophage](https://cyanophage.github.io/) there's an option to sort layouts by SFB percentage — Rhythm is in the top 3 (top 2 when only considering standard 30 key layouts). 
 The low SFBs allow for a fast typing speed by giving each finger time to 'set up' the next key press.
 
 If you're looking for the lowest possible LSBs, there are other layouts specifically designed for that purpose, but Rhythm still scores in the top 40%!
 
-High rolls is where Rhythm shines. To my knowledge (correct me if I'm wrong) there's no other viable keyboard layout with excess of 51.003% rolls -- putting Rhythm in the number one spot! 
+High rolls is where Rhythm shines. To my knowledge (correct me if I'm wrong) there's no other viable keyboard layout with excess of 51.003% rolls — putting Rhythm in the number one spot! 
 That being said, a major concern is the roll / redirect ratio. Other layouts focus on reducing redirects rather than increasing rolls.
 I recommend trying out a low redirect layout to see if it better fits your typing style.
 
-Lastly, the hand split on Rhythm is very close to 50 / 50 -- reducing strain by balancing the work across both hands. 
-As a note, the hand split numbers don't total to 100% -- this is due to the small amount of typing work done outside of the main 30 keys. See the colemak mod statistics below for the complete picture. 
+Lastly, the hand split on Rhythm is very close to 50 / 50 — reducing strain by balancing the work across both hands. 
+As a note, the hand split numbers don't total to 100% — this is due to the small amount of typing work done outside of the main 30 keys. See the colemak mod statistics below for the complete picture. 
 
 
 ##### Potential Weaknesses
@@ -133,7 +133,7 @@ as compared to the average alt layout which is ~8.0%. The left pinky also has a 
 Overall, I find it still manageable - especially considering the other strengths of the layout.
 
 Additionally, the number of HSB is 6.07% as compared to an average of ~2.0%. This is mainly due to the 'TH' half scissor,
-but considering it's with two strong fingers -- I don't find it to be a major concern.
+but considering it's with two strong fingers — I don't find it to be a major concern.
 After taking out the 'TH' scissor, the layout drops to ~2.5% HSB, which is on par with other alt layouts.
 
 ## Layout Statistics
