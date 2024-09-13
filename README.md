@@ -10,9 +10,9 @@ An alternative keyboard layout to reduce typing strain, improve typing speed, an
 
 ```
 Rhythm Keyboard Layout:
-y m h c p q x u o ,
-s t n d f j r e a i
-v k b g w z l ; ' .
+y m h c p   q x u o ,
+s t n d f   j r e a i
+v k b g w   z l ; ' .
 ```
 
 - Image made with [Keysolve Source](https://clemenpine.github.io/keysolve-web/).
